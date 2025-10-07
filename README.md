@@ -1,6 +1,6 @@
 # GitHub Pages Deployment Demo
 
-A simple demo showing how to deploy a static website using **GitHub Actions** to **GitHub Pages**.
+A simple demo of deploying a static website using **GitHub Actions** to **GitHub Pages**.
 
 ## Overview
 
